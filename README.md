@@ -1,4 +1,4 @@
-# Face-Recognition-with-Intel-D435i #
+# Face-Detection-with-Intel-D435i #
 Facial recognition with the Intel Realsense D435i Depth Camera. The main code for this project is a derivation of that found on the official Intel Realsense repositoy: https://github.com/IntelRealSense/librealsense
 
 ## To begin... ##
